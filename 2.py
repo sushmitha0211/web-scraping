@@ -42,8 +42,6 @@ f.close()
 
 
 
-print trim_price
-print trim_rating
 
 
 
@@ -55,5 +53,5 @@ print trim_rating
 
 
 
-#for link in soup.find_all("article"):
-    #print link
+
+
